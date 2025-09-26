@@ -1,0 +1,18 @@
+{
+  "2025-09": {
+    "total": 1550,
+    "categories": {
+      "Food": 400,
+      "Shopping": 600,
+      "Entertainment": 250,
+      "Groceries": 300
+    }
+  },
+  "2025-08": {
+    "total": 720,
+    "categories": {
+      "Food": 360,
+      "Shopping": 360
+    }
+  }
+}

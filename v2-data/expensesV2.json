@@ -1,0 +1,171 @@
+[
+  {
+    "amount": 100,
+    "category": "Food",
+    "date": "2025-09-25"
+  },
+  {
+    "amount": 200,
+    "category": "Shopping",
+    "date": "2025-09-27"
+  },
+  {
+    "amount": 120,
+    "category": "Food",
+    "date": "2025-08-05"
+  },
+  {
+    "id": "1758876608136-1859",
+    "amount": 100,
+    "category": "Food",
+    "date": "2025-09-25",
+    "description": "Lunch"
+  },
+  {
+    "id": "1758877373825-6855",
+    "amount": 100,
+    "category": "Food",
+    "date": "2025-09-25",
+    "description": "Lunch"
+  },
+  {
+    "id": "1758877373833-4460",
+    "amount": 200,
+    "category": "Shopping",
+    "date": "2025-09-27",
+    "description": "Clothes"
+  },
+  {
+    "id": "1758877373835-1951",
+    "amount": 50,
+    "category": "Entertainment",
+    "date": "2025-09-28",
+    "description": "Movie"
+  },
+  {
+    "id": "1758877373837-9075",
+    "amount": 120,
+    "category": "Food",
+    "date": "2025-08-05",
+    "description": "Groceries"
+  },
+  {
+    "id": "1758877373838-4478",
+    "amount": 150,
+    "category": "Groceries",
+    "date": "2025-09-29",
+    "description": "Big shop"
+  },
+  {
+    "id": "1758877373840-8338",
+    "amount": 75,
+    "category": "Entertainment",
+    "date": "2025-09-30",
+    "description": "Games"
+  },
+  {
+    "id": "1758877373841-5471",
+    "amount": 180,
+    "category": "Shopping",
+    "date": "2025-08-15",
+    "description": "Shoes"
+  },
+  {
+    "id": "1758878129188-9474",
+    "amount": 100,
+    "category": "Food",
+    "date": "2025-09-25",
+    "description": "Lunch"
+  },
+  {
+    "id": "1758878129197-3681",
+    "amount": 200,
+    "category": "Shopping",
+    "date": "2025-09-27",
+    "description": "Clothes"
+  },
+  {
+    "id": "1758878129200-8459",
+    "amount": 50,
+    "category": "Entertainment",
+    "date": "2025-09-28",
+    "description": "Movie"
+  },
+  {
+    "id": "1758878129201-6626",
+    "amount": 120,
+    "category": "Food",
+    "date": "2025-08-05",
+    "description": "Groceries"
+  },
+  {
+    "id": "1758878129203-1957",
+    "amount": 150,
+    "category": "Groceries",
+    "date": "2025-09-29",
+    "description": "Big shop"
+  },
+  {
+    "id": "1758878129205-9836",
+    "amount": 75,
+    "category": "Entertainment",
+    "date": "2025-09-30",
+    "description": "Games"
+  },
+  {
+    "id": "1758878129206-5363",
+    "amount": 180,
+    "category": "Shopping",
+    "date": "2025-08-15",
+    "description": "Shoes"
+  },
+  {
+    "id": "1758887997142-5496",
+    "amount": 100,
+    "category": "Food",
+    "date": "2025-09-25",
+    "description": "Lunch"
+  },
+  {
+    "id": "1758887997156-5422",
+    "amount": 200,
+    "category": "Shopping",
+    "date": "2025-09-27",
+    "description": "Clothes"
+  },
+  {
+    "id": "1758887997158-594",
+    "amount": 50,
+    "category": "Entertainment",
+    "date": "2025-09-28",
+    "description": "Movie"
+  },
+  {
+    "id": "1758887997161-7810",
+    "amount": 120,
+    "category": "Food",
+    "date": "2025-08-05",
+    "description": "Groceries"
+  },
+  {
+    "id": "1758887997164-2805",
+    "amount": 150,
+    "category": "Groceries",
+    "date": "2025-09-29",
+    "description": "Big shop"
+  },
+  {
+    "id": "1758887997166-8519",
+    "amount": 75,
+    "category": "Entertainment",
+    "date": "2025-09-30",
+    "description": "Games"
+  },
+  {
+    "id": "1758887997169-8106",
+    "amount": 180,
+    "category": "Shopping",
+    "date": "2025-08-15",
+    "description": "Shoes"
+  }
+]
